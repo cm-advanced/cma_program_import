@@ -1,0 +1,15 @@
+name = CMA Program Import
+description = "Will import airings and shows from a CSV"
+package = Community Media Advanced
+
+version = "7.x-1.x"
+core = "7.x"
+project = "cma_program_import"
+project_status_url = https://github.com/cm-advanced/cma_program_import
+
+
+
+
+
+
+
